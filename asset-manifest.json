@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RA-Composition-cards/static/css/main.d5b5b6c9.css",
+    "main.js": "/RA-Composition-cards/static/js/main.08c29e9e.js",
+    "static/media/card-4.jpg": "/RA-Composition-cards/static/media/card-4.27c195320aad08b51f6a.jpg",
+    "static/media/card-1.jpg": "/RA-Composition-cards/static/media/card-1.678eeb786b97159af552.jpg",
+    "static/media/card-3.jpg": "/RA-Composition-cards/static/media/card-3.44e18fd06a91ff6c1a09.jpg",
+    "static/media/Montserrat-Regular.woff2": "/RA-Composition-cards/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Composition-cards/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/card-2.jpg": "/RA-Composition-cards/static/media/card-2.fd2f29d3f9e065dd7934.jpg",
+    "index.html": "/RA-Composition-cards/index.html",
+    "main.d5b5b6c9.css.map": "/RA-Composition-cards/static/css/main.d5b5b6c9.css.map",
+    "main.08c29e9e.js.map": "/RA-Composition-cards/static/js/main.08c29e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b5b6c9.css",
+    "static/js/main.08c29e9e.js"
+  ]
+}
